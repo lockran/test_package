@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/lockran/test_package/issues"
   },
-  "homepage": "https://github.com/lockran/test_package#readme"
+  "homepage": "https://github.com/lockran/test_package#readme",
   "publishConfig": {
     "@andylockran:registry": "https://npm.pkg.github.com"
   }
