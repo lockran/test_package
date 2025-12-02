@@ -18,6 +18,6 @@
   "homepage": "https://github.com/lockran/test_package#readme",
   "publishConfig": {
     "@lockran:registry": "https://npm.pkg.github.com",
-    "access": "public"
+    "access": "restricted"
   }
 }
