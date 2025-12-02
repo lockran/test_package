@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/lockran/test_package#readme",
   "publishConfig": {
-    "@andylockran:registry": "https://npm.pkg.github.com"
+    "@lockran:registry": "https://npm.pkg.github.com"
   }
 }
